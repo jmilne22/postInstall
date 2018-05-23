@@ -17,7 +17,7 @@ sudo add-apt-repository -y ppa:agornostal/ulauncher
 sudo apt update
 
 # install apps
-sudo apt-get install -y vim steam fonts-powerline hexchat arc-theme chrome-gnome-shell gnome-tweak-tool adapta-gtk-theme neofetch streamlink mpv vlc docker.io nautilus-dropbox zsh curl pop-fonts ulauncher virtualbox telegram-desktop
+sudo apt-get install -y vim steam fonts-powerline fonts-hack-ttf hexchat arc-theme chrome-gnome-shell gnome-tweak-tool adapta-gtk-theme neofetch streamlink mpv vlc docker.io nautilus-dropbox zsh curl pop-fonts ulauncher virtualbox telegram-desktop
 
 # install snap packages
 sudo snap install slack --classic
