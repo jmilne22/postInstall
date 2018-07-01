@@ -21,7 +21,7 @@ sudo apt-get install -y vim steam fonts-powerline fonts-hack-ttf hexchat arc-the
 
 # install snap packages
 sudo snap install slack --classic
-sudo snap install discord spotify
+sudo snap install discord spotify communitheme
 
 # add user to docker group
 sudo usermod -aG docker $USER
