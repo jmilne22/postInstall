@@ -18,6 +18,7 @@ sudo apt update
 
 # install apps
 sudo apt-get install -y vim steam fonts-powerline fonts-hack-ttf hexchat arc-theme chrome-gnome-shell gnome-tweak-tool adapta-gtk-theme neofetch streamlink mpv vlc docker.io nautilus-dropbox zsh curl pop-fonts ulauncher virtualbox telegram-desktop papirus-icon-theme
+
 # install snap packages
 sudo snap install slack --classic
 sudo snap install discord spotify
