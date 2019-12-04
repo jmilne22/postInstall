@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo pacman -Syu --no-confirm
+sudo pacman -Syu --noconfirm
 
 sudo pacman -S git vim yay zsh steam telegram-desktop --noconfirm
 
