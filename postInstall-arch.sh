@@ -6,7 +6,7 @@ sudo pacman -S git vim yay zsh steam telegram-desktop --noconfirm
 
 # Start installing packages with yay AUR helper
 
-yay -S discord google-chrome slack oh-my-zsh-git visual-studio-code-bin --no-confirm
+yay -S discord google-chrome slack oh-my-zsh-git visual-studio-code-bin --noconfirm
 
 # install spotify snap
 
